@@ -3,23 +3,22 @@
 * 글머리 : 1 ~ 6 까지만 지원가능하다.
 
 ```
-# Header<h1>
-## Header<h2>
-### Header<h3>
-#### Header<h4>
-##### Header<h5>
-###### Header<h6>
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
 ```
 
-# Header<h1>
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
 
-## Header<h2>
-### Header<h3>
-#### Header<h4>
-##### Header<h5>
-###### Header<h6>
-
-####### Header<h7>  (지원하지 않는다.)
+####### This is a H7  (지원하지 않는다.)
 
 # 2. 수평선 (Horizontal Rule)
 
