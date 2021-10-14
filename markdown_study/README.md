@@ -152,11 +152,6 @@ Link: [Google][googlelink]
 [googlelink]: http://google.com "Go google"
 ```
 
-[link keyword][id]
-
-[id]: URL "Optional Title here"
-
-// code
 Link: [Google][googlelink]
 
 [googlelink]: http://google.com "Go google"
@@ -168,6 +163,7 @@ Link: [Google][googlelink]
 적용 예: [Google](http://google.com, "google link")
 ```
 
-사용문법: [Title](link)
-적용 예: [Google](http://google.com, "google link")
+Link: [Google](http://google.com, "google link")
+
+
 
