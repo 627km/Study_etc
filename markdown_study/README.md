@@ -137,3 +137,37 @@ ___
 >   example
 >   ```
 
+# 5. 링크
+
+* 참조링크
+
+```
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: http://google.com "Go google"
+```
+
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: http://google.com "Go google"
+
+* 외부링크
+
+```
+사용문법: [Title](link)
+적용 예: [Google](http://google.com, "google link")
+```
+
+사용문법: [Title](link)
+적용 예: [Google](http://google.com, "google link")
+
