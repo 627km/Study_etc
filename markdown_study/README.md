@@ -73,7 +73,7 @@ ___
 3. 세번째
 2. 두번째
 
-### 순서없는 목록(글머리 기호: *, +, - 지원)
+### 순서없는 목록(글머리 기호: ```*```, ```+```, ```-``` 지원)
 
 ```
 * 빨강
@@ -165,5 +165,35 @@ Link: [Google][googlelink]
 
 Link: [Google](http://google.com, "google link")
 
+* 자동연결
 
+```
+일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
+* 외부링크: <http://example.com>
+* 이메일링크: <address@example.com>
+```
 
+* 외부링크: <http://example.com>
+* 이메일링크: <address@example.com>
+
+# 6. 강조
+
+```
+* *single asterisks*
+* _single underscores_
+* **double asterisks**
+* __double underscores__
+* ~~cancelline~~
+```
+
+* *single asterisks*
+
+* _single underscores_
+
+* **double asterisks**
+
+* __double underscores__
+
+* ~~cancelline~~
+
+  
