@@ -184,6 +184,8 @@ Link: [Google](http://google.com, "google link")
 * **double asterisks**
 * __double underscores__
 * ~~cancelline~~
+* <mark>highlighter</mark>
+* <u>underline</u>
 ```
 
 * *single asterisks*
@@ -196,4 +198,11 @@ Link: [Google](http://google.com, "google link")
 
 * ~~cancelline~~
 
+* <mark>highlighter</mark>
+
+* <u>underline</u>
+
   
+
+  
+
